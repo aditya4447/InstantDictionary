@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Instant dictionary</string>
+    <string name="_permission_reason">This app needs \"Display over other apps\" permission in order
+        to work.</string>
+    <string name="grant_permission">Grant permission</string>
+    <string name="_permission_granted">\"Display over other apps\" Permission granted</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="definition">Definition</string>
+    <string name="close">Close</string>
+    <string name="meaning_not_found">Meaning not found</string>
+    <string name="pronounce">Pronounce</string>
+    <string name="similar_">Similar:</string>
+    <string name="word">Word</string>
+    <string name="search">Search</string>
+</resources>
